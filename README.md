@@ -48,10 +48,6 @@
    📊 GitHub Statistics
 </h3>
 
-![Hoan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhoanrv&show_icons=true&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nguyenhoanrv&theme=highcontrast)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhoanrv&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center">
